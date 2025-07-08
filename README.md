@@ -9,6 +9,7 @@ A complete MERN-based food ordering platform with:
 
 ## 📁 Folder Structure
 
+```bash
 BACKEND/
 ├── src/
 │   ├── controllers/
@@ -49,7 +50,9 @@ BACKEND/
 ├── index.js                          # Entry point
 ├── .env
 ├── package.json
+```
 
+```bash
 FRONTEND/
 ├── public/
 │   └── assets/                       # Static files
@@ -84,9 +87,10 @@ FRONTEND/
 ├── .env                              # VITE_BACKEND_URL
 ├── vite.config.js
 ├── package.json
-└── README.md
 
+```
 
+```bash
 ADMIN/
 ├── public/
 │   └── assets/                       # Static/logo
@@ -108,10 +112,8 @@ ADMIN/
 ├── .env                              # VITE_BACKEND_URL
 ├── vite.config.js
 ├── package.json
-└── README.md
 
-
-
+```
 
 ## ⚙️ Tech Stack
 
